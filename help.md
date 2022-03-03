@@ -1,1 +1,1 @@
-# this is a help file
+# help file
