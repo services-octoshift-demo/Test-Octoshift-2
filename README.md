@@ -1,3 +1,11 @@
+an example using a release template to create custom release notes
+
+Example: https://github.com/joshjohanning-org/Test-Release-Notes/releases/tag/newest
+Release notes template config: https://github.com/joshjohanning-org/Test-Release-Notes/blob/main/.github/release.yml
+Docs: https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes#configuring-automatically-generated-release-notes
+
+---
+
 # Intro
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
